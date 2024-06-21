@@ -4,6 +4,7 @@ url = https://github.com/steinbergmedia/vst3_base.git
 [submodule "cmake"]
 path = cmake
 url = ../vst3_cmake
+branch = ninja
 [submodule "pluginterfaces"]
 path = pluginterfaces
 url = https://github.com/steinbergmedia/vst3_pluginterfaces.git
